@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related QA webhooks APIs "
   contactDetails:
     name: "Irene - Product Owner"
     email: "irene@eazybank.com"
