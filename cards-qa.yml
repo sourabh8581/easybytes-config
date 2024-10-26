@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank cards related Test APIs "
+  message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
     name: "Irene - Product Owner"
     email: "irene@eazybank.com"
