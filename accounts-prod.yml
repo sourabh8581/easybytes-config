@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Irene - Product Owner"
-    email: "irene@eazybank.com"
+    email: "{cipher}33e1f0e3c9bc3748d1e69040c7035b7ef2eab94963e6eba7ae8ec1a460812997c566790ede68696998bc4a1f6de40231"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
